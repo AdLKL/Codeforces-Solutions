@@ -1,3 +1,5 @@
+package nine_hundreds;
+
 import java.util.Arrays;
 import java.util.Scanner;
 

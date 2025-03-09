@@ -1,3 +1,5 @@
+package nine_hundreds;
+
 import java.util.Scanner;
 
 public class HQ9plus {

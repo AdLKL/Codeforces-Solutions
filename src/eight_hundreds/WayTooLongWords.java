@@ -1,3 +1,5 @@
+package eight_hundreds;
+
 import java.util.Scanner;
 
 public class WayTooLongWords {
